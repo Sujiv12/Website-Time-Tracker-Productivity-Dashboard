@@ -1,4 +1,4 @@
-# ⏱️ ChronoTrack – Smart Time Tracking & Productivity Analytics
+# ⏱️  – Smart Time Tracking & Productivity Analytics
 
 ChronoTrack is a Chrome extension that tracks time spent on different websites and provides meaningful productivity analytics. It helps users understand their browsing habits by classifying websites as **productive** or **unproductive** and generating weekly productivity reports through an interactive dashboard.
 
